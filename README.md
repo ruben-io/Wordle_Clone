@@ -1,6 +1,6 @@
 # Android Project 1 - *Wordle App*
 
-Submitted by: **Jason Saini**
+Submitted by: **Ruben Velasquez**
 
 This is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
 
@@ -11,7 +11,7 @@ This is an android app that recreates a simple version of the popular word game 
 
 '+' - Letter is in answer, but wrong position
 
-Time spent: **4** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
@@ -53,7 +53,7 @@ GIF created with ...
 
 ## License
 
-    Copyright 2022 Jason Saini
+    Copyright 2022 Ruben Velasquez
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
