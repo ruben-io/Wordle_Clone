@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/mClvQfpVgMSK7tApuI/giphy.gif'/>
+<img src='appPreview.gif'/>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
